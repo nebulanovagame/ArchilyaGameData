@@ -1,12 +1,13 @@
 {
-  "version": "1.0.2",
-  "buildDate": "2024-01-21",
+  "version": "1.0.3",
+  "buildDate": "2024-01-24",
   "downloadUrl": "https://github.com/nebulanovagame/ArchilyaGameData/releases/latest/download/Archilya.zip",
-  "zipHash": "0F77A50B68995CE2D9E85ACE5AE1DED4",
+  "zipHash": "EBC9468355EBA90A90D20FA9041200E4",
   "executableName": "Archilya.exe",
   "maintenanceMode": false,
   "maintenanceMessage": "Sunucular bakımda."
 }
+
 
 
 
