@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.5",
   "buildDate": "2026-03-06",
   "downloadParts": [
     { "url": "https://github.com/nebulanovagame/ArchilyaGameData/releases/latest/download/Archilya.zip", "size": 1210992902 },
@@ -12,3 +12,4 @@
   "maintenanceMessage": "Sunucular bakımda.",
   "patchNotes": [Demo Güncellemesi]
 }
+
