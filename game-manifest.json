@@ -3,8 +3,8 @@
   "buildDate": "2026-03-10",
   "downloadParts": [
     { "url": "https://github.com/nebulanovagame/ArchilyaGameData/releases/latest/download/Archilya.zip.004", "size": 90530751 },
-    { "url": "https://github.com/nebulanovagame/ArchilyaGameData/releases/latest/download/Archilya.zip.003", "size": 1468.006400 },
-    { "url": "https://github.com/nebulanovagame/ArchilyaGameData/releases/latest/download/Archilya.zip.002", "size": 1468.006400 },
+    { "url": "https://github.com/nebulanovagame/ArchilyaGameData/releases/latest/download/Archilya.zip.003", "size": 1468006400 },
+    { "url": "https://github.com/nebulanovagame/ArchilyaGameData/releases/latest/download/Archilya.zip.002", "size": 1468006400 },
     { "url": "https://github.com/nebulanovagame/ArchilyaGameData/releases/latest/download/Archilya.zip.001", "size": 1468006400 }
   ],
   "totalSize": 4494549951,
@@ -14,6 +14,7 @@
   "maintenanceMessage": "Sunucular bakımda.",
   "patchNotes": ["Demo Güncellemesi"]
 }
+
 
 
 
